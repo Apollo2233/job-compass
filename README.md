@@ -36,7 +36,7 @@ This app turns the job search into a structured workflow.
 ## Screenshots
 
 ### Command Center
-Add screenshot below after upload.
+![Command Center](screenshots/command-center.png)
 
 ### Analytics
-Add screenshot below after upload.
+![Analytics Dashboard](screenshots/analytics-dashboard.png)
